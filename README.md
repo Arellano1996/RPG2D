@@ -6,5 +6,3 @@ El software para los dibujos es Aseprite, se compiló la última versión dispon
 está disponible en la raíz del proyecto, solo se extrae
 
 
-
-
