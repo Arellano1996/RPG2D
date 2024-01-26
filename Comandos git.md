@@ -20,7 +20,8 @@ git checkout -b {nombre de la rama}  Crear y moverse a la nueva rama
 
 git reflog  Revisar el historial del proyecto
 
-git branch  Ver o crear ramas
+git branch  Ver o crear ramas (locales)
+git branch -a Ver todas las ramas del repositorio (remotas)
 
 git checkout {nombre de rama}  Sirve para cambiarnos a la rama que queremos
 
